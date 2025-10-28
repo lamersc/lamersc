@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there, I'm Christopher 🏔️
+I'm a Canadian computing science student with an interest in secure systems and game engine design.
 
 <!--
 **lamersc/lamersc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
